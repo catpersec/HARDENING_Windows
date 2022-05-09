@@ -1,0 +1,79 @@
+Name;DisplayName
+PolicyAgent;Agent zasad IPsec
+WlanSvc;Autokonfiguracja sieci WLAN
+NcdAutoSetup;Autokonfiguracja urz¹dzeñ pod³¹czon...
+dot3svc;Automatyczna konfiguracja sieci prz...
+WwanSvc;Automatyczne konfigurowanie bezprze...
+PeerDistSvc;BranchCache
+HomeGroupProvider;Dostawca grupy domowej
+Fax;Faks
+workfolderssvc;Foldery robocze
+p2psvc;Grupowanie sieci równorzêdnej
+fdPHost;Host dostawcy odnajdowania funkcji
+KeyIso;Izolacja klucza CNG
+SCardSvr;Karta inteligentna
+Dhcp;Klient DHCP
+Dnscache;Klient DNS
+TrkWks;Klient œledzenia linków rozproszonych
+seclogon;Logowanie pomocnicze
+lltdsvc;Mapowanie z odnajdywaniem topologii...
+RasAuto;Mened¿er autopo³¹czenia dostêpu zda...
+XblAuthManager;Mened¿er autoryzacji Xbox Live
+SessionEnv;Mened¿er konfiguracji us³ug pulpitu...
+MapsBroker;Mened¿er pobranych map
+Wcmsvc;Mened¿er po³¹czeñ systemu Windows
+RasMan;Mened¿er po³¹czeñ us³ugi Dostêp zdalny
+p2pimsvc;Mened¿er to¿samoœci sieci równorzêdnej
+IKEEXT;Modu³y obs³ugi kluczy IPsec IKE i A...
+Netlogon;Netlogon
+SSDPSRV;Odnajdywanie SSDP
+CscService;Pliki trybu offline
+wcncsvc;Po³¹cz teraz w systemie Windows — R...
+Netman;Po³¹czenia sieciowe
+iphlpsvc;Pomoc IP
+lmhosts;Pomoc TCP/IP NetBIOS
+CertPropSvc;Propagacja certyfikatu
+PNRPsvc;Protokó³ rozpoznawania nazw równorz...
+Eaphost;Protokó³ uwierzytelniania rozszerzo...
+UmRdpService;Przekierowanie portu trybu u¿ytkown...
+FDResPub;Publikacja zasobów odnajdowania fun...
+Browser;Przegl¹darka komputerowa
+QWAVE;Quality Windows Audio Video Experience
+RemoteRegistry;Rejestr zdalny
+RemoteAccess;Routing i dostêp zdalny
+NlaSvc;Rozpoznawanie lokalizacji w sieci
+LanmanServer;Serwer
+FrameServer;Serwer klatek kamer systemu Windows
+SNMPTRAP;SNMP Trap
+LanmanWorkstation;Stacja robocza
+TapiSrv;Telefonia
+SharedAccess;Udostêpnianie po³¹czenia internetow...
+WinHttpAutoProxySvc;Us³uga autowykrywania serwera proxy...
+WbioSrvc;Us³uga biometryczna systemu Windows
+ALG;Us³uga bramy warstwy aplikacji
+lfsvc;Us³uga geolokalizacji
+icssvc;Us³uga hotspotu mobilnego systemu W...
+BITS;Us³uga inteligentnego transferu w tle
+nsi;Us³uga interfejsu magazynu sieciowego
+TabletInputService;Us³uga klawiatury dotykowej i panel...
+NetSetupSvc;Us³uga konfiguracji sieci
+netprofm;Us³uga listy sieci
+irmon;Usluga monitora podczerwieni
+ListSvc;Usluga nasluchu grup domowych
+bthserv;Us³uga obs³ugi Bluetooth
+BthHFSrv;Us³uga obs³ugi urz¹dzeñ g³oœnomówi¹cych Bluetooth
+SstpSvc;Us³uga Protokó³ SSTP
+PNRPAutoReg;Us³uga publikowania nazw komputerów...
+WerSvc;Us³uga raportowania b³êdów systemu ...
+XboxNetApiSvc;Us³uga sieciowa Xbox Live
+PhoneSvc;Us³uga telefoniczna
+NetTcpPortSharing;Us³uga udostêpniania portów Net.Tcp
+WMPNetworkSvc;Us³uga udostêpniania w sieci progra...
+RmSvc;Us³uga zarz¹dzania radiem
+TermService;Us³ugi pulpitu zdalnego
+W32Time;Windows Time
+wuauserv;Windows Update
+XblGameSave;Zapisywanie gier Xbox Live
+AppMgmt;Zarz¹dzanie aplikacjami
+SCPolicySvc;Zasady usuwania karty inteligentnej
+WinRM;Zdalne zarz¹dzanie systemem Windows...
